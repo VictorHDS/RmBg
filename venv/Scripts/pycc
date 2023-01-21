@@ -1,0 +1,3 @@
+#!C:\Users\provi\OneDrive\Área de Trabalho\Projects\RemoveBackgroundImage\venv\Scripts\python.exe
+from numba.pycc import main
+main()
